@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tamestart
-- 👀 I’m interested in ful stack web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning js
 - 📫   reach me @discodiscostuck@gmail.com
 
