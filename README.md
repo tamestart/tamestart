@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @tamestart
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning js
-- 📫   reach me @discodiscostuck@gmail.com
 
-<!---
-tamestart/tamestart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const aboutme = () => {
+
+    console.log("Welcome Traveller,
+
+    This Is the Profile of TAMESTART(previously kamestart)!
+
+    Who is this you ask?
+
+    A fine specimen of the programmer speices.
+
+    A developer fluent in node an javascript.
+
+    Well versed with DSA.
+
+    And, Last But not least.
+
+    Open For Colabs")
+}
+
+// contact
+frunzstuios@outlook.com | discodiscostuck@gmail.com
+epicscripter#5909
+
+I look forward to knowing you.
