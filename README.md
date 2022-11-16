@@ -19,7 +19,10 @@ const aboutme = () => {
 }
 
 // contact
-frunzstuios@outlook.com | discodiscostuck@gmail.com
+frunzstudios@outlook.com | discodiscostuck@gmail.com
+
 epicscripter#5909
 
 I look forward to knowing you.
+
+aboutme();
